@@ -1,0 +1,76 @@
+{
+    "name": "Ashley Kier Ferreol",
+    "age": 21,
+    "location": "Lincoln Prime San Pablo DInalupihan Bataan",
+    "likes": ["bread", "fried chicken", "coffee", "sunsets", "vintage clothing"],
+    "dislikes": ["loud noises", "cake"],
+    "hobbies": [
+      "reading books",
+      "watching movies",
+      "designing (graphic and UI/UX)",
+      "cooking (especially baking)",
+      "gym"
+    ],
+    "userType": "Master User",
+    "bio": "I am a creative person who loves exploring new recipes, designing beautiful interfaces, and losing myself in a good book or movie. I’m always up for a hike to clear my mind!",
+    "funFacts": [
+      "My favorite type of movies is romance, and Marvel movies.",
+      "I like something that is vintage.",
+      "I become a master user because I am a creative person."
+    ],
+    "education": {
+      "degree": "Bachelor of Computer Science",
+      "school": "Gordon College",
+      "graduationYear": 2026
+    },
+    "skills": [
+      "UI/UX Design",
+      "Basic Programming",
+      "Photography"
+    ],
+    "favoriteBooks": [
+      "Stoic",
+      "Rich Dad Poor Dad",
+      "The Subtle Art of Not Giving a F*ck"
+    ],
+    "favoriteMovies": [
+      "Avengers",
+      "The Girl Next Door",
+      "The Notebook"
+    ],
+    "favoriteMusic": [
+      "RNB",
+      "POP",
+      "RAP"
+    ],
+    "dailyRoutine": [
+      "7:00 AM - Wake up and drink coffee",
+      "8:00 AM - Sketch or design ideas",
+      "12:00 PM - Lunch",
+      "3:00 PM - Work on projects or read",
+      "6:00 PM - Cook dinner or watch a movie",
+      "9:00 PM - Wind down with music"
+    ],
+    "goals": [
+      "Become a professional UI/UX designer",
+      "Become a professional Data Analyst",
+      "Experience working in a tech company",
+      "Experience to watch F1"
+    ],
+    "favoriteQuotes": [
+      "‘Creativity is intelligence having fun.’ – Albert Einstein",
+      "‘The best way to predict the future is to create it.’ – Peter Drucker"
+    ],
+    "responses": {
+      "who are you": "I am Ashley Kier Ferreol, a 21-year-old creative soul from Lincoln who loves bread, fried chicken, designing, and hitting the gym! I’m studying Computer Science at Gordon College and enjoy losing myself in romance and Marvel movies.",
+      "what do you like": "I like bread, fried chicken, coffee, sunsets, and vintage clothing—yum!",
+      "what are your hobbies": "I enjoy reading books, watching movies, designing (graphic and UI/UX), cooking (especially baking), and going to the gym.",
+      "what are your skills": "I’m skilled in UI/UX design, basic programming, and photography.",
+      "tell me a fun fact": "Did you know my favorite movie types are romance and Marvel movies, or that I love anything vintage?",
+      "what’s your favorite movie": "My favorite movies are Avengers, The Girl Next Door, and The Notebook—perfect mix of action and romance!",
+      "what do you do daily": "I start my day with coffee at 7 AM, sketch or design ideas by 8 AM, have lunch at noon, work on projects or read at 3 PM, cook dinner or watch a movie at 6 PM, and wind down with RNB, POP, or RAP by 9 PM.",
+      "where are you from": "I’m from Lincoln Prime—a great place to enjoy sunsets",
+      "what are you studying": "I’m studying for a Bachelor of Computer Science at Gordon College, aiming to graduate in 2026.",
+      "what are your goals": "My goals are to become a professional UI/UX designer, a data analyst, work in a tech company, and experience watching F1 live!"
+    }
+  }
